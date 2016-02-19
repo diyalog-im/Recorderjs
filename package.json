@@ -2,7 +2,7 @@
   "name": "opus-recorder",
   "version": "0.4.4",
   "description": "A library for recording opus encoded audio",
-  "homepage": "https://github.com/chris-rudmin/Recorderjs",
+  "homepage": "https://github.com/actorapp/Recorderjs",
   "author": "Chris Rudmin",
   "keywords": [
     "Ogg",
@@ -26,10 +26,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/chris-rudmin/Recorderjs.git"
+    "url": "git://github.com/actorapp/Recorderjs.git"
   },
   "bugs": {
-    "url": "https://github.com/chris-rudmin/Recorderjs/issues",
+    "url": "https://github.com/actorapp/Recorderjs/issues",
     "email": "chris.rudmin@gmail.com"
   },
   "scripts": {
